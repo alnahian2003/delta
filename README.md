@@ -1,5 +1,3 @@
-![Blog Preview](preview.png)
-
 # Delta — Personal Laravel Blog
 
 Completed the beginner blog project challenge of [Laravel Roadmap Learning Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
@@ -12,6 +10,22 @@ Completed the beginner blog project challenge of [Laravel Roadmap Learning Path]
 -   Only admin can login! There's no registration system (as per the challenge rules)
 
 This project was completed within a few hours. I know a lot of things can be implemented. But tbh, it's maybe not a good idea to spend huge time on something simple.
+
+## Previews
+
+• **Home/Blog Page**
+
+![Homepage](blog_preview.png)
+
+• **Manage Posts Page**
+
+![](posts_preview.png)
+
+• **Manage Category Page**
+
+![](category_preview.png)
+
+### Run this project to learn more about pages!
 
 ## How To Use
 
