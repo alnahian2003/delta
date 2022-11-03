@@ -32,7 +32,7 @@ This project was completed within a few hours. I know a lot of things can be imp
 1. Clone this repository
 
 ```bash
-git clone https://github.com/alnahian2003/chirper.git
+git clone https://github.com/alnahian2003/delta.git
 ```
 
 3. Install all the dependencies using composer and npm
